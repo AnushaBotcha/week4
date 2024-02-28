@@ -16,7 +16,7 @@ class Student {
 public class Paramconst {
     public static void main(String[] args) {
         Student Anusha = new Student();
-        Student Anusha = new Student("Anusha", 91.4);
+        Student Anushabotcha = new Student("Anusha", 91.4);
     }
 }
 
